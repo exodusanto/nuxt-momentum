@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-momentum",
+  "version": "0.0.1",
+  "description": "Nuxt integrated pattern lab",
+  "main": "index.js",
+  "repository": "git@github.com:exodusanto/nuxt-momentum.git",
+  "author": "Antonio Dal Sie <antonydalsie@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "js-cookie": "^2.2.0",
+    "lodash": "^4.17.10"
+  }
+}
